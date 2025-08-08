@@ -47,7 +47,7 @@ GitHub becomes the primary place for development, issue tracking, and community 
 Contributions from the community are greatly appreciated. We mark the most straightforward issues with labels. These issues are the best place to start if you are interested in contributing but are new to the codebase.
 
 - [good first issues](https://github.com/Microsoft/microsoft-ui-xaml/labels/good first issue)
-- [help wanted](https://github.com/Microsoft/microsoft-ui-xaml/labels/help wanted)
+- [help wanted](https://github.com/orgs/microsoft/projects/1868/views/12)
 
 Another great way to help is by up-voting and commenting on feature proposals:
 - [feature request](https://github.com/Microsoft/microsoft-ui-xaml/labels/feature request)
